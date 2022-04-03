@@ -91,6 +91,8 @@ header {
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
+    background-color: rgb(0, 4, 17);
+    font: rgb(225, 239, 230);
 }
 
 /* spacers */
@@ -203,6 +205,9 @@ footer {
 
     /* gallery section */
     .gallery {
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
         height: auto;
     }
     
