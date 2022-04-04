@@ -142,7 +142,9 @@ header {
 .about-container .text {
     width: 50%;
 }
-
+.nav {
+    border: 1px solid red;
+}
 /* contact us section */
 .contact {
     text-align: center;
