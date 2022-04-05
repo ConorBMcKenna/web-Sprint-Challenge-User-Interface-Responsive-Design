@@ -60,6 +60,7 @@ html {
 body {
     font-family: 'Roboto', sans-serif;
     line-height: 1.5;
+    color: white;
 }
 
 h1, h2, h3, h4, h5, h6, p, a, i {
@@ -119,7 +120,104 @@ header {
     background-position: center;
     background-repeat: no-repeat;
 }
+.item-top {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.item-coffee {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.item-beer {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.item-wine {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.item-cocktail {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.item-pickles {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.item-buffalo {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.item-poutine {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.item-house {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.item-french {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.item-cheddar {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.item-ribeye {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.item-big {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.item-pork {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.item-flourless {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.item-cookies {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.item-creme {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.menu-container{
+    border: 2px solid red;
 
+}
+.menu-section {
+    border: 2px solid purple;
+}
+.menu-item {
+    border: 2px solid yellow;
+}
+.item-top {
+    border: 2px solid green;
+}
 /* footer section */
 footer {
     width: 100%;
